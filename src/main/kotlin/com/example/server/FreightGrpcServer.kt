@@ -1,8 +1,9 @@
-package com.gbtech.server
+package com.example.server
 
-import com.gbtech.FreightRequest
-import com.gbtech.FreightResponse
-import com.gbtech.FreightServiceGrpc
+
+import com.example.FreightRequest
+import com.example.FreightResponse
+import com.example.FreightServiceGrpc
 import io.grpc.stub.StreamObserver
 import jakarta.inject.Singleton
 import org.slf4j.LoggerFactory

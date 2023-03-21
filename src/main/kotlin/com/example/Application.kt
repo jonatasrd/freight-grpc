@@ -1,4 +1,4 @@
-package com.gbtech
+package com.example
 
 import io.micronaut.runtime.Micronaut.run
 
